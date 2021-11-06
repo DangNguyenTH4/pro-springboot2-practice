@@ -1,4 +1,4 @@
-package com.apress.todo.config.integration;
+package com.apress.todo.integration;
 
 import com.apress.todo.dto.ToDo;
 import lombok.extern.slf4j.Slf4j;
